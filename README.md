@@ -45,7 +45,7 @@ The following chart shows which products generate the most revenue:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-pandas-project.git
+   git clone https://github.com/rohinipatil-dev/ecommerce-pandas-project.git
    cd ecommerce-pandas-project
 
 2. (Optional) Create and activate a virtual environment:
