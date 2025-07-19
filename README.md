@@ -45,7 +45,7 @@ The following chart shows which products generate the most revenue:
 
 The following chart shows which month has generated most revenue
 
-![Monthly Revenue Trend](output/visuals/monthly_revenue_trend.png)
+![Monthly Revenue Trend](outputs/visuals/monthly_revenue_trend.png)
 
 - Majority of revenue comes during holiday season
 - This can be used for promotions or offers during low revenue months to increase revenue during those months
