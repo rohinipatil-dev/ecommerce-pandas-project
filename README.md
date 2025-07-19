@@ -41,6 +41,15 @@ The following chart shows which products generate the most revenue:
 - These products can be prioritized for promotions or bundled offers
 - Majority of revenue comes from repeat purchases of popular items
 
+### 🔹 Monthly Revenue Trend
+
+The following chart shows which month has generated most revenue
+
+![Monthly Revenue Trend](output/visuals/monthly_revenue_trend.png)
+
+- Majority of revenue comes during holiday season
+- This can be used for promotions or offers during low revenue months to increase revenue during those months
+
 ## ▶️ How to Run
 
 1. Clone this repository:
